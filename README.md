@@ -1,3 +1,0 @@
-# cough-classifier
-
-#  Overview
